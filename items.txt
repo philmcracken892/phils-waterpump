@@ -1,0 +1,3 @@
+
+
+waterpump = { name = 'waterpump', label = 'waterpump', type = 'item',weight = 1, image = 'waterpump.png',unique = true, useable = true, shouldClose = true, description = 'waterpump' },
