@@ -1,3 +1,4 @@
 
 
+emptybottle = { name = 'emptybottle', label = 'emptybottle', type = 'item',weight = 1, image = 'emptybottle.png',unique = true, useable = true, shouldClose = true, description = 'emptybottle' },
 waterpump = { name = 'waterpump', label = 'waterpump', type = 'item',weight = 1, image = 'waterpump.png',unique = true, useable = true, shouldClose = true, description = 'waterpump' },
